@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a7375b8-58f9-4cb5-b48c-62a98bd54a34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Genopfriskning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist/ArrayListOpgave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bogopgave/Bibliotek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bogopgave/Bog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bogopgave/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/græsopgave/Græs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/græsopgave/GræsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kvadratopgave/Kvadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kvadratopgave/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/propercase/sætningÆndring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorteringsopgave/SortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorteringsopgave/Sortering.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorteringsopgave/TekstString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/søgningsopgave/MissingStringException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/søgningsopgave/Søgning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/søgningsopgave/SøgningTest.java" afterDir="false" />
+    <list default="true" id="1a7375b8-58f9-4cb5-b48c-62a98bd54a34" name="Changes" comment="Et stort push med alle genopfriskning opgaver">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +44,17 @@
       <option name="presentableId" value="Default" />
       <updated>1661284563262</updated>
       <workItem from="1661284565206" duration="22763000" />
+      <workItem from="1661429482773" duration="1010000" />
+      <workItem from="1662028625871" duration="927000" />
     </task>
+    <task id="LOCAL-00001" summary="Et stort push med alle genopfriskning opgaver">
+      <created>1661429567196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661429567196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Et stort push med alle genopfriskning opgaver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Et stort push med alle genopfriskning opgaver" />
   </component>
 </project>
